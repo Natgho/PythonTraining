@@ -6,4 +6,4 @@ cikti = os.popen("lspci").read()
 print("içi",cikti)
 
 print(type(cikti))
-print(os.getpid())+
+print(os.getpid())
